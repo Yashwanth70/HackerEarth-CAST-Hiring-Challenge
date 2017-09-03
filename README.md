@@ -4,8 +4,8 @@ Source Code Version Control Info Domain of CAST Software
 
 
 ```
-npm install
- or yarn install```
+npm install or yarn install
+```
 
 **developement**
 
